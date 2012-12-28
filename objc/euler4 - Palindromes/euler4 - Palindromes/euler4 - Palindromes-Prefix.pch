@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'euler4 - Palindromes' target in the 'euler4 - Palindromes' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
